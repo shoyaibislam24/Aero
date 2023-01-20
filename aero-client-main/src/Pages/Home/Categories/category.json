@@ -1,0 +1,22 @@
+[
+  {
+    "categories_id": 1,
+    "title": "Mass-Market Cars",
+    "description": "Mass-market vehicles used to be the bare-bones option to get you from point A to point B, with flashy features only reserved for the luxury class.",
+    "img": "https://i.ibb.co/ZSJ04nB/mazda2.jpg"
+  },
+  {
+    "categories_id": 2,
+    "title": "Luxury Cars",
+    "description": "A luxury car is a car that provides increased levels of comfort, equipment, amenities, quality, performance, and associated status compared to moderately priced cars.The term is subjective and reflects both the qualities of the car and the brand image of its manufacturer.[1] Luxury brands rank above premium brands, though there is no fixed demarcation between the two. Traditionally, most luxury cars were large vehicles, though smaller sports-oriented models were always produced. 'Compact' luxury vehicles such as hatchbacks, and off-road capable sport utility vehicles, are relatively modern trends",
+    "img": "https://i.ibb.co/1sz2YP8/2022-Rolls-Royce-Phantom-Tempus.jpg"
+  },
+  {
+    "categories_id": 3,
+    "title": "Sports Cars",
+    "description": "A sports car is a car designed with an emphasis on dynamic performance, such as handling, acceleration, top speed, the thrill of driving and racing capability. Sports cars originated in Europe in the early 1900s and are currently produced by many manufacturers around the world.",
+    "img": "https://i.ibb.co/SXXLdvf/mg-cyberster-concept.jpg"
+  }
+]
+
+

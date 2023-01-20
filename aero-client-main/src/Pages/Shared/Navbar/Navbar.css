@@ -1,0 +1,9 @@
+.nav-li>a:focus,
+.nav-li>a:hover {
+  background: transparent !important;
+}
+.nav>li>a:hover,
+.nav>li>a:focus {
+  background: transparent !important;
+  color: #007ee5;
+}

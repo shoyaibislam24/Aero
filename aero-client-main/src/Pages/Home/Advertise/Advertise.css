@@ -1,0 +1,18 @@
+.swiper {
+  width: 90%;
+}
+.swiper-slide img {
+  height: 450px;
+  width: 100%;
+  line-height: 300px;
+  text-align: center;
+}
+
+
+@media (min-width: 992px) {
+  
+.swiper-slide img{
+  height: 660px;
+  /* padding: 0 20px !important; */
+}
+}
